@@ -1,18 +1,20 @@
 [![](https://visitcount.itsvg.in/api?id=Pratt33&icon=5&color=4)](https://github.com/Pratt33)
 
 <h1 align="center">Hi 👋, I'm Pratik Shirsath</h1>
+<h3 align="center" style="color: #1D8BF1; font-weight: normal;">Electronics & Computer Engineer</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1D8BF1&width=600&lines=%7B+Electronics+%26+Computer+Engineer+%7D;%7B+Aspiring+Data+Scientist+%7C+AI%2FML+Honours+%7D;%7B+ML+%7C+CV+%7C+NLP+%7C+GenAI+%7C+IoT+%7C+DS+%7D;%7B+Open+to+Collaboration+%26+Opportunities!+%7D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1D8BF1&width=600&lines=%7B+Aspiring+Data+Scientist+%7C+AI%2FML+Honours+%7D;%7B+ML+%7C+CV+%7C+NLP+%7C+GenAI+%7C+IoT+%7C+DS+%7D;%7B+Open+to+Collaboration+%26+Opportunities!+%7D" alt="Typing SVG" />
 </div>
 
 ---
 
+
 # 🚀 About Me
 
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: space-between;">
-
-<div style="flex: 1; min-width: 250px">
+<table>
+  <tr>
+    <td valign="top" width="60%">
 
 - 👨‍🎓 Final-year B.Tech in Electronics & Computer Engineering (AI/ML Honours)  
 - 🧠 300+ hrs of structured AI & DS training  
@@ -20,16 +22,15 @@
   ↪ Tweet Sentiment Analysis  
   ↪ Churn Prediction  
   ↪ Sand Pile Detection (CV + IoT)  
-- 🤝 Open to open-source and collaborative work
+- 🤝 Open to open-source and collaborative work  
 - 📬 Reach me at: [Shirsathpratik333@gmail.com](mailto:Shirsathpratik333@gmail.com)
 
-</div>
-
-<div align="right" style="flex: 1; min-width: 250px;">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" alt="Coding GIF"/>
-</div>
-
-</div>
+    </td>
+    <td align="center" width="40%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px" alt="Coding GIF"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
