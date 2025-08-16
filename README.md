@@ -16,12 +16,7 @@
   <tr>
     <td valign="top" width="60%">
 
-- 👨‍🎓 Final-year B.Tech in Electronics & Computer Engineering (AI/ML Honours)  
-- 🧠 300+ hrs of structured AI & DS training  
-- 🔬 Built end-to-end projects:  
-  ↪ Tweet Sentiment Analysis  
-  ↪ Churn Prediction  
-  ↪ Sand Pile Detection (CV + IoT)  
+- 👨‍🎓 Final-year B.Tech in Electronics & Computer Engineering (AI/ML Honours) 
 - 🤝 Open to open-source and collaborative work  
 - 📬 Reach me at: [Shirsathpratik333@gmail.com](mailto:Shirsathpratik333@gmail.com)
 
